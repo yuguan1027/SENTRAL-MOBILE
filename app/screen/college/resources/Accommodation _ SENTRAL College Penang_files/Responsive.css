@@ -1,0 +1,109 @@
+@media all and (max-width:1199px){.testimonial-pad{padding-left:2% !important;}
+.i-size{font-size:15px !important;margin-top:2px;}
+ul.social-menu li a{width:28px;height:28px;}
+}
+@media all and (max-width:1141px){ul.menu li a{font-size:13px;}
+}
+@media all and (max-width:1101px){ul.menu li a{padding:22px 6px 11px 6px;}
+}
+@media all and (max-width:1067px){ul.menu li a{font-size:11.5px;}
+}
+@media all and (min-width:1000px){.pp{width:20% !important;}
+.fix7{width:14.28% !important;}
+}
+@media all and (max-width:991px){.homeAbout-text h3, .homeHighlights h3, .ourJourney h2, .testimonial h2{font-size:26px !important;}
+.ourJourney p, .linkshare p ,.ourJourney ol{font-size:14px;}
+#ourJfont{font-size:22px !important;}
+.homeYoutube h3, .cd-timeline-content time, .collapse-text h3, .nav1>li>a, .nav1>li.active>a{font-size:18px !important;}
+.homeAbout-text p, .hh-desc p, .homeYoutube p, .programmesNode p, .hevent-node h3, .module p, .ourJourney p,.jnodes h3,
+.here2 h3, .here2 p, .here2 ul li, .program-text h3, .nav3>li>a, .bullets-text2 ul li, .collapse-text p,.collapse-text a, .header-search form input,
+.us input, .us textarea, .us select, .us select option{font-size:14px !important;}
+.menu-footer-desc h3, .program-text li, .testimonial p, .linkshare p, .breadcrumb-box ul li a{font-size:12px;}
+.footer-contact p, footer-contact p a, .footer-opening p, .menu-footer li a, .program-text p, .copyright, .contact-left div, .contact-left div a,ul.menu li a{font-size:11px !important;}
+ul.menu li a{padding:22px 5px 11px 5px;}
+.cd-timeline-content time{padding:14px 6%;}
+.padul ul{padding-left:5%;}
+.form-button button{padding:2% 5%;}
+.module2{height:70px;}
+}
+@media all and (max-width:917px){ul.menu li a{font-size:10px !important;}
+}
+@media all and (max-width:852px){ul.menu li a{font-size:9px !important;}
+}
+@media all and (max-width:793px){ul.menu li a{font-size:9px !important;}
+}
+@media all and (max-width:767px){.now-now{margin-top:0px !Important;}
+.header-left{margin-top:10px;}
+.highlight-center{text-align:center;}
+.hh-desc{padding-top:10px;padding-bottom:40px;}
+.videoWrapper{padding-bottom:56.4% !important;}
+.navbar-nav .open .dropdown-menu>li>a{line-height:12px !important;}
+li.has-sub.menutop:hover >.dropdown-menu{position:static;float:none;width:auto;margin-top:0;background-color:transparent;border:0;-webkit-box-shadow:none;box-shadow:none;background:#fff !important;}
+.static{border:1px solid #ccc !important;border:1px solid rgba(0,0,0,.15) !important;border-radius:4px !important;-webkit-box-shadow:0 6px 12px rgba(0,0,0,.175) !important;box-shadow:0 6px 12px rgba(0,0,0,.175) !important;width:215px !important;}
+.container{padding-top:205px !important;}
+.home-Youtube{padding:5% !important;}
+.header-divider{border-left:none;border-bottom:none;}
+.absolute{position:absolute !important;}
+ul.menu li a{font-size:14px !important;}
+.navbar-header{position:absolute;top:-50px;right:0;}
+.header-right{margin-top:20px;}
+.navbar-collapse ul.menu{margin:0px !important;}
+.navbar-collapse ul.menu li a{padding:11px 6.87px;}
+.senodes{display:block;}
+.fixed-header{position:relative;}
+}
+@media all and (max-width:700px){.nav3>li>a{font-size:10px !important;}
+}
+@media all and (max-width:650px){.nav2 li{width:50% !important;}
+.pp1{padding:10px !important;}
+.pp1 img{width:50px;}
+}
+@media all and (max-width:500px){.pp, .partnersNode, .fix7, .gallery-img-size{width:50% !important;}
+.event .date{width:100%;}
+.event .day, .event .name{width:50%;}
+.nav3 li{width:33.3333% !important;}
+.cd-popup-container .cd-popup-close{top:6%;}
+.fadeco2{padding:3px 5px 3px;font-size:15px !important;}
+.module{height:55px;}
+.module2{height:65px;}
+.header-search form input{padding:11.5px 5px;}
+.homeAbout-text h3, .homeHighlights h3, .ourJourney h2, .testimonial h2{font-size:25px !important;}
+#ourJfont{font-size:18px !important;}
+.homeYoutube h3, .cd-timeline-content time, .collapse-text h3, .nav1>li>a, .nav1>li.active>a{font-size:17px !important;}
+.homeAbout-text p, .hh-desc p, .homeYoutube p, .programmesNode p, .hevent-node h3, .module p, .ourJourney p,.jnodes h3,
+.here2 h3, .here2 p, .here2 ul li, .program-text h3, .bullets-text2 ul li, .collapse-text p,.collapse-text a, .header-search form input,
+.us input, .us textarea, .us select, .us select option{font-size:13px !important;}
+.menu-footer-desc h3, .program-text li, .testimonial p, .linkshare p, .breadcrumb-box ul li a{font-size:11px;}
+.footer-contact p,.footer-contact p a, .footer-opening p, .menu-footer li a, .program-text p, .copyright, .contact-left div, .contact-left div a{font-size:10px !important;}
+}
+@media all and (max-width:445px){.contact-header .contact-left{width:58.33333333%;}
+.contact-header .seperateLine{display:none;}
+.contact-header .contact-right{width:41.66666667%;}
+.linksocial{padding-top:10px !important;}
+}
+@media all and (max-width:555px){.footer-pad .menu-footer-desc{width:80%;}
+}
+@media all and (max-width:400px){.footer-pad .menu-footer-desc{width:100%;}
+}
+@media all and (max-width:360px){.pp, .partnersNode, .fix7, .gallery-img-size{width:100% !important;}
+}
+@media only screen and (min-width:750px){.cd-timeline-block{margin:4em 0;}
+.cd-timeline-block:first-child{margin-top:0;}
+.cd-timeline-block:last-child{margin-bottom:0;}
+#cd-timeline{margin-top:3em;margin-bottom:3em;}
+#cd-timeline::before{left:50%;margin-left:-2px;}
+.cd-timeline-content{margin-left:0;padding:1.6em;width:45%;}
+.cd-timeline-content::before{top:24px;left:100%;border-color:transparent;border-left-color:#ffffff;}
+.cd-timeline-content .cd-read-more{float:left;}
+.cd-timeline-content .cd-date{position:absolute;width:100%;left:122%;top:6px;}
+.cd-timeline-block:nth-child(even) .cd-timeline-content{text-align:right;}
+.cd-timeline-block:nth-child(odd) .cd-timeline-content{float:right;}
+.cd-timeline-block:nth-child(odd) .cd-timeline-content::before{top:24px;left:auto;right:100%;border-color:transparent;border-right-color:#ffffff;}
+.cd-timeline-block:nth-child(odd) .cd-timeline-content .cd-read-more{float:right;}
+.cd-timeline-block:nth-child(odd) .cd-timeline-content .cd-date{left:auto;right:122%;text-align:right;}
+.cssanimations .cd-timeline-content.is-hidden{visibility:hidden;}
+.cssanimations .cd-timeline-content.bounce-in{visibility:visible;-webkit-animation:cd-bounce-2 0.6s;-moz-animation:cd-bounce-2 0.6s;animation:cd-bounce-2 0.6s;}
+.cssanimations .cd-timeline-block:nth-child(odd) .cd-timeline-content.bounce-in{-webkit-animation:cd-bounce-2-inverse 0.6s;-moz-animation:cd-bounce-2-inverse 0.6s;animation:cd-bounce-2-inverse 0.6s;}
+.cd-timeline-block:before{left:50%;}
+}
+@media only screen and (min-width:768px){}

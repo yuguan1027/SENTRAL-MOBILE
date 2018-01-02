@@ -1,0 +1,51 @@
+[
+  {
+      "course": "Project Management",
+      "programme": "BIT",
+      "lecture": "Mr. Google",
+      "time": "9:00AM - 10:00AM",
+      "period":"AM",
+      "room": "OCR 100"
+  },
+  {
+      "course": "Entreprenership",
+      "programme": "BSBM",
+      "lecture": "Mr. Yahoo",
+      "time": "9:00AM - 10:00AM",
+      "period":"AM",
+      "room": "OCR 10"
+  },
+  {
+      "course": "Technology Analysis",
+      "programme": "BIT",
+      "lecture": "Mr. Firefox",
+      "time": "2:00PM - 5:00PM",
+      "period":"PM",
+      "room": "OCR 100"
+  },
+   {
+      "course": "Android OS",
+      "programme": "BIT",
+      "lecture": "Mr. Yahoo",
+      "time": "2:00PM - 5:00PM",
+      "period":"PM",
+      "room": "OCR 200"
+  },
+   {
+      "course": "Smartphone Gadget",
+      "programme": "BSBM",
+      "lecture": "Mr. Yandex",
+      "time": "2:00PM - 5:00PM",
+      "period":"PM",
+      "room": "OCR 250"
+  },
+  {
+      "course": "E-Account",
+      "programme": "BAF",
+      "lecture": "Mr. Amazon",
+      "time": "3:00PM - 5:00PM",
+      "period":"PM",
+      "room": "OCR 120"
+  },
+
+]
